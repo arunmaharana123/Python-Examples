@@ -1,0 +1,4 @@
+Rules:
+1. You have given 3 questions.
+2. You can win if you answered all 3 questions correctly.
+3. You have only 5 chances to give all questions answer.
